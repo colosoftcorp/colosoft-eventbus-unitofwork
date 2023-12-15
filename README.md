@@ -1,6 +1,6 @@
 # Colosoft Event Bus UnitOfWork
 
-Project with the definition of colosoft's event bus logging.
+Project with the definition of colosoft's event bus unit of work.
 
 
 | Package | NuGet | Downloads |
